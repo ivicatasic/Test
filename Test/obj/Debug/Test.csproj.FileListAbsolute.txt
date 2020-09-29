@@ -1,0 +1,10 @@
+C:\Users\Acer\Desktop\Test\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Acer\Desktop\Test\Test\Test\bin\Debug\Test.exe
+C:\Users\Acer\Desktop\Test\Test\Test\bin\Debug\Test.pdb
+C:\Users\Acer\Desktop\Test\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Test\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Acer\Desktop\Test\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Acer\Desktop\Test\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Test\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Test\Test\Test\obj\Debug\Test.exe
+C:\Users\Acer\Desktop\Test\Test\Test\obj\Debug\Test.pdb
